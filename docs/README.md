@@ -21,27 +21,11 @@ Ajusta los controles deslizantes para cambiar el color de fondo de la página. L
 
 ![Ejemplo de la página](https://github.com/estefaniacn/proyectos-javascript-dom/raw/main/archivos-readme/imagenes/rgb-slider.png)
 
-## Instrucciones para Completar el Desafío
-
-1. **Desarrolla tu proyecto**:
-   - Completa el archivo `app.js` para que funcione correctamente.
-   
-2. **Crea un Repositorio en GitHub**:
-   - Sube tu proyecto a un repositorio en GitHub.
-
-3. **Publica tu Proyecto en GitHub Pages**:
-   - Asegúrate de que tu proyecto sea accesible públicamente a través de GitHub Pages.
-
-4. **Entrega tu Tarea**:
-   - Proporciona los enlaces a tu repositorio de GitHub y a la página publicada en GitHub Pages a través de Moodle.
-
-## Enlaces Requeridos para la Entrega
-
-- **Enlace al Repositorio de GitHub**: [Tu repositorio en GitHub](URL_DEL_REPOSITORIO)
-- **Enlace a la Página Publicada en GitHub Pages**: [Tu página en GitHub Pages](URL_DE_LA_PAGINA)
-
 ## Estructura de Archivos
 
 - `index.html` - Contiene la estructura de la página.
 - `styles.css` - Contiene los estilos para la presentación.
 - `app.js` - Contiene la lógica para actualizar el color de fondo.
+
+## Enlace para acceder a GitHub Pages
+https://noniaacosta.github.io/desafioRGB/
